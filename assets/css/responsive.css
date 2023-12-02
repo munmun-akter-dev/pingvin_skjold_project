@@ -1,0 +1,662 @@
+
+
+
+
+@media screen and (max-width: 768px) {
+
+
+
+
+
+
+}
+
+
+@media screen and (max-width: 425px) {
+    
+
+
+
+    .start_up_body h1 {
+
+        font-size: 55px;
+
+    }
+
+    .moderation {
+
+        font-size: 55px;
+
+    }
+
+    .start_up_content {
+        padding-top: 5px;
+
+        font-size: 14px;
+
+    }
+
+    .list_item p {
+       
+        font-size: 14px;
+       
+    }
+
+    .consultancy_left_side {
+        margin-top: -50px;
+    }
+
+    .consultancy_first_btn{
+        padding-bottom: 20px;
+    }
+
+    .brand_body {
+        padding-top: 39px;
+    
+        height: 390px;
+    
+       
+    }
+
+    .brand_protection {
+        margin-top: 100px;
+    }
+
+    .circle_second {
+      
+        top: 102%;
+        left: 38%;
+      
+    }
+
+    .down_img img{
+        width: 100%;
+        height: 100%;
+    }
+
+    .contact_us_from {
+        width: 100%;
+        height: 100%;
+       
+      
+        border-radius: 45px;
+        padding-bottom: 20px;
+        
+    }
+
+
+    .small {
+        
+        width: 340px;
+        height: 44px;
+     
+        padding: 11px;
+    }
+    .contact_us {
+        margin-top: 40px;
+        border-radius: 45px;
+    }
+    
+    .contact_us {
+      
+        font-size: 15px;
+      
+    }
+
+    .our_product {
+        margin-top: 60px;
+      
+    }
+
+    p {
+     
+        font-size: 14px;
+       
+    }
+
+    .down_img {
+       
+        flex-wrap: wrap;
+    }
+
+    .moderering_beta #search_box {
+        border-radius: 7px;
+        border: 1px solid var(--07, #06194A);
+        width: 100%;
+        height: 45px;
+    }
+
+    .img_group {
+        flex-wrap: wrap;
+
+
+    }
+
+    .box {
+
+        margin-top: 15px;
+    }
+
+    /* .contact_us {
+
+
+        flex-wrap: wrap;
+        flex-direction: column;
+
+
+    } */
+
+    .footer_img {
+        margin-top: 50px;
+        padding-bottom: 30px
+    }
+    .engine {
+        padding-top: 0px;
+    }
+    .footer_items {
+      margin-top: 5px;
+    }
+
+    .line {
+       
+        margin-top: 30px;
+    }
+
+    .bottom_text {
+     
+        font-size: 12px;
+        
+    }
+    .footer_items li a {
+    
+        font-size: 12px;
+       
+    }
+
+    .footer_items h3 {
+       
+        margin-top: 20px;
+    }
+
+    .btn.btn-primary {
+        padding: 12px 25px 12px 25px;
+        font-size: 10px;
+     
+    }
+
+    .hero_btn {
+     
+        padding-top: 20px;
+    }
+
+    .pt-5 {
+        padding-top: 1rem!important;
+    }
+
+    .product_box {
+      
+        padding: 20px;
+   
+}
+
+
+
+
+/* HOME PAGE START */
+.hero_home {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.moderering_beta h2 {
+ 
+    font-size: 25px;
+  
+    padding-bottom: 15px;
+}
+.hero_home_left_side h2 {
+    color: var(--02, #FFF);
+    font-family: Montserrat;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 130%;
+    margin-top: 70px;
+}
+
+.moderering_beta {
+    
+  
+    height: 344px;
+}
+.home_about_us {
+    padding-top: 100px;
+   
+}
+
+.home_about_us {
+   
+    padding-bottom: 0;
+}
+.hero_home_left_side h2 {
+   
+    font-size: 40px;
+   
+}
+
+.home_moderation {
+
+    font-size: 40px;
+   
+}
+
+.home_hero_content {
+    
+    font-size: 14px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+   
+}
+
+.game {
+    
+    padding-bottom: 50px;
+}
+
+.section_padding {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.home_about_us_right_side h3 {
+    
+    font-size: 40px;
+    
+}
+
+.product_box p {
+   
+    font-size: 14px;
+    
+}
+.product_box h3 {
+   
+    font-size: 21px;
+   
+}
+
+.footer {
+   
+    padding-top: 150px;
+}
+.our {
+   
+    font-size: 45px;
+    
+    padding-top: 20px;
+}
+
+
+
+.bottom_hero_img {
+    padding: 35px 0;
+}
+.home_about_us_right_side {
+    padding-top: 50px;
+}
+.wel_ylw {
+    
+    font-size: 40px;
+    
+}
+
+.blck_moder {
+ 
+    font-size: 40px;
+    
+}
+
+.who_pera {
+    
+    font-size: 14px;
+    
+}
+
+.dedication_left_side {
+    padding-top: 10px;
+}
+
+.left_head {
+    
+    font-size: 40px;
+   
+}
+
+.left_pera {
+   
+    font-size: 15px;
+    padding-top: 30px;
+    
+}
+
+.dedication_right_side {
+    padding-top: 30px;
+}
+.game{
+    padding-top: 0px;
+
+}
+
+.game_pera {
+
+    font-size: 14px;
+    padding-top: 30px;
+}
+.today {
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+
+.today_btn {
+   
+    padding-top: 13px;
+}
+
+.today_pera {
+   
+    font-size: 14px;
+    
+}
+
+.moderation {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.mainstream_pera {
+    
+    padding-bottom: 8px;
+    padding-top: 40px;
+}
+
+.help {
+    
+    font-size: 40px;
+    
+}
+
+.moderation_pera {
+    
+    font-size: 14px;
+   
+}
+
+.mainstream_box {
+    padding: 20px;
+   
+}
+
+button.btn.btn-mainstream-primary {
+    margin-top: -5px;
+}
+
+.dedication {
+    
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.mainstream_content_head {
+   
+    padding-top: 40px;
+}
+
+.list_content {
+    
+    font-size: 12px;
+    
+}
+
+.we {
+    
+    font-size: 40px;
+    
+}
+
+.box_pera {
+   
+    font-size: 14px;
+    
+}
+
+.pricing_head {
+    padding-top: 50px;
+   
+    padding-bottom: 30px;
+  
+    font-size: 40px;
+   
+}
+.pricing_box_pera {
+   
+    padding-bottom: 10px;
+}
+.pricing_box {
+    padding: 30px;
+}
+
+
+.pricing_box_pera_second {
+    padding-top: 40px;
+    
+}
+
+.pricing_box_pera_third {
+    padding-top: 30px;
+    
+
+}
+
+.pricing {
+    padding-bottom: 30px;
+}
+
+.help_yellow {
+        
+    font-size: 30px;
+  
+    padding-top: 10px;
+}
+
+.why_content_pera {
+    padding-top: 30px;
+    padding-bottom: 35px;
+  
+    font-size: 14px;
+   
+}
+
+.uncover_brand_section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.why_choose {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.protect_content {
+ 
+    line-height: 25px;
+    padding-top: 10px;
+}
+.uncover_brand {
+   
+    padding-top: 30px;
+}
+
+
+.what_head {
+  
+    padding-top: 50px;
+}
+.we {
+    
+    padding-bottom: 10px;
+    padding-top: 27px;
+}
+.uncover_right_pera {
+  
+    font-size: 14px;
+   
+}
+
+.what_we_offer_head {
+    
+    padding-bottom: 20px;
+}
+
+.what_we_offer_head {
+  
+    font-size: 40px;
+    
+}
+
+.black_span {
+    
+    font-size: 40px;
+    
+}
+
+.choose {
+   
+    font-size: 40px;
+    
+}
+
+.us {
+   
+   
+    font-size: 40px;
+    
+}
+
+.colon {
+    
+    font-size: 16px;
+   
+}
+.why_choose_right_side{
+    padding-top: 30px;
+}
+
+.protect_head {
+ 
+    font-size: 40px;
+   
+}
+.head_yellow {
+   
+    font-size: 32px;
+
+}
+
+.head_black {
+    
+    font-size: 32px;
+   
+}
+
+.get_in_touch {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.our_product_left_side {
+    padding-top: 0px;
+}
+
+.community_protection {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.game_right_side {
+    padding-top: 30px;
+}
+
+.welcome_pera {
+    
+    padding-top: 20px;
+}
+
+.content_second_head {
+    
+    padding-top: 20px;
+}
+.our_product_right_side{
+    padding-top: 30px;
+}
+
+.contact_us_right_side {
+    padding-top: 30px;
+}
+
+.btn.btn-mainstream-long {
+    
+    width: 290px;
+    
+}
+
+.line_head {
+
+    font-size: 20px;
+   
+}
+
+}
+/* HOME PAGE END */
+
+
+
+@media screen and (max-width: 376px) {
+    .small {
+        width: 270px;
+        height: 44px;
+        padding: 11px;
+    }
+
+    .start_up_body h1 {
+        font-size: 50px;
+    }
+
+    .moderation {
+        font-size: 50px;
+    }
+
+    .moderering_beta_content {
+       
+        font-size: 12px;
+      
+    }
+
+    .contact_white {
+       
+        font-size: 36px;
+     
+    }
+
+    .us {
+   
+        font-size: 36px;
+      
+    }
+
+   
+
+   
+
+
+}
+
+
+
+
