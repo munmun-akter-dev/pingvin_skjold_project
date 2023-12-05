@@ -10,7 +10,6 @@
 
 
 body {
-
     font-family: 'Montserrat';
     font-weight: 400;
     font-size: 1.8rem;
@@ -310,7 +309,7 @@ ul.navbar-nav.home.mx-auto {
     text-align: center;
     padding-bottom: 207px;
 
-    width: 600px;
+    /* width: 600px; */
     height: 429px;
 
 }
@@ -330,7 +329,7 @@ ul.navbar-nav.home.mx-auto {
 .moderering_beta #search_box {
     border-radius: 7px;
     border: 1px solid var(--07, #06194A);
-    width: 510px;
+    /* width: 510px; */
     height: 45px;
 
 
@@ -667,7 +666,7 @@ ul.navbar-nav.home.mx-auto {
     padding-right: 50px;
     padding-top: 78px;
     padding-left: 53px;
-    width: 600px;
+  
     height: 577px;
     flex-shrink: 0;
     border-radius: 0 45px 45px 0;
@@ -1096,7 +1095,7 @@ section.nav_section {
 .ylw_game_head {
     color: var(--05, #FDD74F);
     font-family: Montserrat;
-    font-size: 40px;
+    font-size: 35px;
     font-style: normal;
     font-weight: 700;
     line-height: 130%;
@@ -1106,7 +1105,7 @@ section.nav_section {
 .blck_game_head {
     color: var(--01, #0C1518);
     font-family: Montserrat;
-    font-size: 40px;
+    font-size: 35px;
     font-style: normal;
     font-weight: 700;
     line-height: 130%;
@@ -1218,12 +1217,13 @@ section.nav_section {
 }
 
 .btn.btn-mainstream-long {
+    padding: 17px 139px;
 
-    padding: 18px 0px 17px 0px;
+    /* padding: 18px 0px 17px 0px; */
     justify-content: center;
     align-items: center;
 
-    width: 350px;
+    /* width: 350px; */
     border-radius: 53px;
     background: var(--05, #FDD74F);
 }
@@ -1278,7 +1278,9 @@ button.btn.btn-mainstream-primary {
 .list_group li {
     padding-top: 15px;
 }
-
+.list_group:hover{
+    color: var(--01, #0C1518);
+}
 .mainstream_pera {
     color: var(--03, #5D6A6F);
     font-family: Montserrat;
@@ -1358,6 +1360,11 @@ button.btn.btn-mainstream-primary {
     background: #FAFBFF;
 }
 
+.pricing_box_head {
+   
+    font-size: 21px;
+   
+}
 .box_child h3 {
     color: var(--07, #06194A);
     font-family: Montserrat;
@@ -1393,6 +1400,7 @@ button.btn.btn-mainstream-primary {
 }
 
 .pricing_head {
+    padding-top: 149px;
     text-align: center;
     padding-bottom: 70px;
     color: var(--07, #06194A);
@@ -1437,6 +1445,7 @@ button.btn.btn-mainstream-primary {
 ul.list_group li {
     display: flex;
     margin: 15px 0;
+    align-items: center;
 }
 
 
@@ -1498,7 +1507,8 @@ ul.list_group li img {
     font-style: normal;
     font-weight: 400;
     line-height: 22px;
-    padding-bottom: 33px;
+    padding-bottom: 22px;
+    padding-top: 49px;
     /* 157.143% */
 }
 
@@ -1510,13 +1520,13 @@ ul.list_group li img {
     font-style: normal;
     font-weight: 400;
     line-height: 22px;
-    padding-bottom: 15px;
+    padding-bottom: 52px;
     /* 157.143% */
 
 }
 
 .pricing_box_pera_third {
-    padding-top: 132px;
+    padding-top: 171px;
     color: var(--03, #5D6A6F);
     font-family: Montserrat;
     font-size: 12px;
@@ -1735,7 +1745,7 @@ ul.list_group li img {
 }
 
 .us {
-    color: var(--01, #0C1518);
+    color: var(--05, #FDD74F);
     font-family: Montserrat;
     font-size: 48px;
     font-style: normal;
@@ -1904,8 +1914,7 @@ ul.list_group li img {
 
 
 .mgs_boxes input {
-
-    width: 270px;
+    width: 320px;
     height: 65px;
     flex-shrink: 0;
     border-radius: 7px;
